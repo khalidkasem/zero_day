@@ -1,4 +1,4 @@
-# This is my Zero_Day repository
+# This is my Zero_Day Repo
 ~~~~
-Welcome to my zero_day repository
+welcome to my repo
 ~~~~
